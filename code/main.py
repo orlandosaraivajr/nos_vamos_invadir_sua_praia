@@ -1,4 +1,4 @@
-from datetime import datetime
+from agenda.agenda import Agenda
 
-hoje = datetime.today()
-print(hoje)
+agenda = Agenda
+print(agenda)
