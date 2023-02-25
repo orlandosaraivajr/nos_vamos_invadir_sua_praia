@@ -2,5 +2,5 @@
 
 from agenda.Agendamento import Agendamento
 
-agendamento = Agendamento
+agendamento = Agendamento()
 print(agendamento)
